@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @darkshaddow01
+- 👀 I’m interested in C/C++
+- 🌱 I’m currently learning JUCE
+- 💞️ I’m not sure about collaborating at the moment
+- 📫 How to reach me: darkshaddow@gmail.com
